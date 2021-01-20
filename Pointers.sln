@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW_Summ and Mul_2021_01_18"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW_Arbitrary_functions", "CW_Arbitrary_functions\CW_Arbitrary_functions.vcxproj", "{BD917512-289D-4496-8540-358D90E56372}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW_Transfer_Parameters", "CW_Transfer_Parameters\CW_Transfer_Parameters.vcxproj", "{7E983457-7C9E-4030-9F46-713FF09F988F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BD917512-289D-4496-8540-358D90E56372}.Release|x64.Build.0 = Release|x64
 		{BD917512-289D-4496-8540-358D90E56372}.Release|x86.ActiveCfg = Release|Win32
 		{BD917512-289D-4496-8540-358D90E56372}.Release|x86.Build.0 = Release|Win32
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Debug|x64.ActiveCfg = Debug|x64
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Debug|x64.Build.0 = Debug|x64
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Debug|x86.Build.0 = Debug|Win32
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Release|x64.ActiveCfg = Release|x64
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Release|x64.Build.0 = Release|x64
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Release|x86.ActiveCfg = Release|Win32
+		{7E983457-7C9E-4030-9F46-713FF09F988F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
