@@ -4,6 +4,7 @@ void main()
 {
 	setlocale(LC_ALL, "Russian");
 
+/*
 	int a = 2;
 	int* pa = &a;
 
@@ -29,6 +30,7 @@ void main()
 	}
 
 	std::cout << std::endl;
+*/
 
 }
 
@@ -47,5 +49,4 @@ void main()
 	short* - 2 Byte
 	int* - 4 Byte
 	double* - 8 Byte
-
 */
