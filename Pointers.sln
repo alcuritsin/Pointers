@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW_Reference", "CW_Referenc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW_Exchange_without_variable_(XOR)", "HW_Exchange_without_variable_(XOR)\HW_Exchange_without_variable_(XOR).vcxproj", "{1ADF7A19-E946-4D39-B253-AC154E5DAFB0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW_Dynamic_Memory", "CW_Dnamic_Memory\CW_Dnamic_Memory.vcxproj", "{AD7CB5DB-6D6E-495E-A335-358A335DF450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{1ADF7A19-E946-4D39-B253-AC154E5DAFB0}.Release|x64.Build.0 = Release|x64
 		{1ADF7A19-E946-4D39-B253-AC154E5DAFB0}.Release|x86.ActiveCfg = Release|Win32
 		{1ADF7A19-E946-4D39-B253-AC154E5DAFB0}.Release|x86.Build.0 = Release|Win32
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Debug|x64.ActiveCfg = Debug|x64
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Debug|x64.Build.0 = Debug|x64
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Debug|x86.Build.0 = Debug|Win32
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Release|x64.ActiveCfg = Release|x64
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Release|x64.Build.0 = Release|x64
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Release|x86.ActiveCfg = Release|Win32
+		{AD7CB5DB-6D6E-495E-A335-358A335DF450}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
