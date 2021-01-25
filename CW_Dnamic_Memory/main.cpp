@@ -10,6 +10,7 @@ void main()
 
 	int n; //размер массива
 	std::cout << "Введите размер массива: "; std::cin >> n;
+
 	int* arr = new int[n];
 
 	FillRand(arr, n);
@@ -17,6 +18,7 @@ void main()
 
 	delete[] arr;
 }
+
 void FillRand(int arr[], const int n)
 {
 	for (int i = 0; i < n; i++)
@@ -24,6 +26,7 @@ void FillRand(int arr[], const int n)
 		*(arr + i) = rand() % 100;
 	}
 }
+
 void Print(int* arr, const int n)
 {
 	for (int i = 0; i < n; i++)
