@@ -1,6 +1,6 @@
 ﻿#include<iostream>
 
-void Exchange(int a, int b);
+void Exchange(int& a, int& b);
 
 void main()
 {
@@ -15,11 +15,12 @@ void main()
 	std::cout << a << "\t" << b << std::endl;
 }
 
-void Exchange(int a, int b)
+void Exchange(int& a, int& b)
 {
 	int buffer = a;
 	a = b;
 	b = buffer;
+	
 	std::cout << &a << "\t" << &b << std::endl;
 	std::cout << a << "\t" << b << std::endl;
 }
